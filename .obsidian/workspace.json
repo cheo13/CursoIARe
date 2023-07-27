@@ -35,9 +35,11 @@
             "id": "9f01ef8e8a66d668",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG/2023-07-25.png"
+                "file": "CursoIARe/ANOTACIONES_LUNES.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMG/2023-07-25.png",
+                "file": "CursoIARe/ANOTACIONES_LUNES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMG/2023-07-25.png",
+                "file": "CursoIARe/ANOTACIONES_LUNES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMG/2023-07-25.png"
+                "file": "CursoIARe/ANOTACIONES_LUNES.md"
               }
             }
           }
@@ -169,13 +171,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "79cda56b22503dda",
+  "active": "9f01ef8e8a66d668",
   "lastOpenFiles": [
+    "IMG/2023-07-25.png",
     "IMG/2023-07-25 (1).png",
     "IMG/2023-07-27 (1).png",
     "IMG/2023-07-27.png",
     "IMG/2023-07-26.png",
-    "IMG/2023-07-25.png",
     "CursoIARe/ANOTACIONES_MIERCOLES.md",
     "CursoIARe/ANOTACIONES_MARTES.md",
     "IMG/WhatsApp Image 2023-07-25 at 19.02.05.jpeg",
