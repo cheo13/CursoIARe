@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5254f556e1b72b6b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "90668ceb1f7edcd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ANOTACIONES.md",
+                "file": "ANOTACIONES_LUNES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4939382a2849b21e",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANOTACIONES.md",
+                "file": "ANOTACIONES_LUNES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANOTACIONES.md",
+                "file": "ANOTACIONES_LUNES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANOTACIONES.md"
+                "file": "ANOTACIONES_LUNES.md"
               }
             }
           }
@@ -155,9 +146,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "79cda56b22503dda",
+  "active": "90668ceb1f7edcd6",
   "lastOpenFiles": [
-    "ANOTACIONES.md",
+    "WhatsApp Image 2023-07-25 at 19.02.03.jpeg",
+    "WhatsApp Image 2023-07-25 at 19.02.03 (1).jpeg",
+    "WhatsApp Image 2023-07-25 at 19.02.02.jpeg",
+    "WhatsApp Image 2023-07-25 at 19.02.02 (1).jpeg",
+    "WhatsApp Image 2023-07-25 at 19.02.00.jpeg",
+    "WhatsApp Image 2023-07-25 at 19.01.59.jpeg",
+    "WhatsApp Image 2023-07-25 at 19.01.59 (2).jpeg",
+    "WhatsApp Image 2023-07-25 at 19.01.59 (1).jpeg",
+    "WhatsApp Image 2023-07-24 at 19.46.24.jpeg",
+    "ANOTACIONES_LUNES.md",
     "CursoIARe",
     "2023-07-27.md",
     "Untitled.canvas"
