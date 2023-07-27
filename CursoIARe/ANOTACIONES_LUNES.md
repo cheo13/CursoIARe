@@ -31,13 +31,3 @@ AVERIGUAR ACERCA DE LOS NATIVOS DIGITALES Y SU IQ
 Los nativos digitales son los primeros niños con un coeficiente intelectual más bajo que sus padres.
 -Este termino se ha utilizado para describir a las personas que han crecido en un entorno donde la tecnología digital esta muy avanzada para dichos individuos que solo buscan el gozo y placer de usar aplicaciones para facilitar su manera de perder el tiempo mientras tanto el individuo no se culturalice informáticamente seguirán dándose estos casos en los que por falta de sabiduría las mentes débiles consumistas dependerán de la tecnología.
 -En resumen, la afirmación de que los nativos digitales tienen un CI más bajo que sus padres carece de respaldo científico y debe ser considerada como un mito o una percepción errónea.
-
--![[WhatsApp Image 2023-07-24 at 19.46.24.jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.01.59 (1).jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.01.59 (2).jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.01.59.jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.02.00.jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.02.02 (1).jpeg
-![[WhatsApp Image 2023-07-25 at 19.02.02.jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.02.03 (1).jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.02.03.jpeg]]

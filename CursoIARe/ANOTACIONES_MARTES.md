@@ -86,11 +86,3 @@ def main():
 if __name__ == "__main__":
 
     main()
-
-
-![[2023-07-25 (1).png]]
-
-![[2023-07-25.png]]
-![[WhatsApp Image 2023-07-25 at 19.02.04 (1).jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.02.05 (1).jpeg]]
-![[WhatsApp Image 2023-07-25 at 19.02.05.jpeg]]

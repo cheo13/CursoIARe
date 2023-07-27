@@ -17,8 +17,3 @@ https://teachablemachine.withgoogle.com/models/2tVcueGAc/
 
 -Luego pasamos a colocar nuestros datos en codigo segun las variaciones de nuestros gestos para que esten programadas y la IA tenga la manera de comprender que movimiento se realiza.
 Al momento de enseñarle a una IA hay que tener en cuenta como realizamos los gestos puesto que es tal cual la IA aprendera y segun como aprenda mas gestos sera lenta pero a la vez mas precisa.
-![[2023-07-27.png]]
-
-![[2023-07-27 (1).png]]
-
-![[2023-07-26.png]]
