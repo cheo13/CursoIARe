@@ -35,11 +35,9 @@
             "id": "9f01ef8e8a66d668",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ANOTACIONES_MIERCOLES.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG/2023-07-25.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ANOTACIONES_MIERCOLES.md",
+                "file": "IMG/2023-07-25.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ANOTACIONES_MIERCOLES.md",
+                "file": "IMG/2023-07-25.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ANOTACIONES_MIERCOLES.md"
+                "file": "IMG/2023-07-25.png"
               }
             }
           }
@@ -171,23 +169,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9f01ef8e8a66d668",
+  "active": "79cda56b22503dda",
   "lastOpenFiles": [
-    "2023-07-26.png",
-    "2023-07-27 (1).png",
-    "2023-07-27.png",
-    "ANOTACIONES_MARTES.md",
+    "IMG/2023-07-25 (1).png",
+    "IMG/2023-07-27 (1).png",
+    "IMG/2023-07-27.png",
+    "IMG/2023-07-26.png",
+    "IMG/2023-07-25.png",
     "ANOTACIONES_MIERCOLES.md",
+    "ANOTACIONES_MARTES.md",
     "IMG/WhatsApp Image 2023-07-25 at 19.02.05.jpeg",
     "IMG/WhatsApp Image 2023-07-25 at 19.02.05 (1).jpeg",
     "IMG/WhatsApp Image 2023-07-25 at 19.02.04 (1).jpeg",
-    "2023-07-25.png",
-    "2023-07-25 (1).png",
     "ANOTACIONES_LUNES.md",
     "IMG/WhatsApp Image 2023-07-24 at 19.46.24.jpeg",
     "IMG",
     "IMG/WhatsApp Image 2023-07-25 at 19.02.03.jpeg",
-    "IMG/WhatsApp Image 2023-07-25 at 19.02.03 (1).jpeg",
     "CursoIARe",
     "2023-07-27.md",
     "Untitled.canvas"
